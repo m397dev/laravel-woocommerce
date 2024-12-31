@@ -8,8 +8,6 @@
 # Description
 WooCommerce Rest API for Laravel. You can Get, Create, Update and Delete your woocommerce product using this package easily.
 
-[Documentation](https://codexshaper.github.io/docs/laravel-woocommerce/)
-
 ## Authors
 
 * **Md Abu Ahsan Basir** - [github](https://github.com/maab16)
@@ -29,6 +27,10 @@ WooCommerce Rest API for Laravel. You can Get, Create, Update and Delete your wo
         "codexshaper/laravel-woocommerce": "dev-master"
 },
 ```
+
+## Usage
+
+[Documentation](https://codexshaper.github.io/docs/laravel-woocommerce/)
 
 ## License
 
