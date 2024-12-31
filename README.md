@@ -14,6 +14,22 @@ WooCommerce Rest API for Laravel. You can Get, Create, Update and Delete your wo
 
 * **Md Abu Ahsan Basir** - [github](https://github.com/maab16)
 
+## Installation
+
+```bash
+# composer.json
+"repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/m397dev/laravel-woocommerce",
+            "no-api": true
+        }
+],
+"require": {
+        "codexshaper/laravel-woocommerce": "dev-master"
+},
+```
+
 ## License
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
